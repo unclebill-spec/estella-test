@@ -1,0 +1,18 @@
+{
+  "entryScene": "assets/scenes/main.esscene",
+  "scenes": [
+    {
+      "name": "main",
+      "path": "assets/scenes/main.esscene"
+    }
+  ],
+  "scripts": "scripts.js",
+  "screenFit": {
+    "designWidth": 480,
+    "designHeight": 720,
+    "scaleMode": -1,
+    "matchWidthOrHeight": 0.5,
+    "renderPolicy": 0
+  },
+  "engineBytes": 2359337
+}
