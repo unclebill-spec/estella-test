@@ -1,0 +1,5 @@
+node_modules/
+.esengine/
+dist/
+
+# dist-web is the exported web build and is meant to stay in the tree.

@@ -1,0 +1,13 @@
+{
+  "formatVersion": "1",
+  "name": "Estella Dodge",
+  "description": "Dodge falling shapes along the bottom of the screen. Keyboard or either half of the screen.",
+  "tag": "Game",
+  "version": "1.0.0",
+  "defaultScene": "assets/scenes/main.esscene",
+  "designResolution": {
+    "width": 480,
+    "height": 720
+  },
+  "spineVersion": "none"
+}

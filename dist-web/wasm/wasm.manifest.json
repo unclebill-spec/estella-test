@@ -1,0 +1,24 @@
+{
+  "schema": 2,
+  "abiHash": "cb0184ba3431d6f9",
+  "editorTarget": "web",
+  "variants": {
+    "web": {
+      "builtAt": "2026-11-13T08:34:41.114Z"
+    },
+    "wechat": {
+      "builtAt": "2026-11-13T08:33:52.920Z"
+    },
+    "wechat-glx": {
+      "builtAt": "2026-11-13T08:32:53.263Z"
+    },
+    "wechat-lite": {
+      "builtAt": "2026-11-13T08:33:36.242Z"
+    },
+    "quickgame": {
+      "builtAt": "2026-11-13T08:33:43.959Z"
+    }
+  },
+  "gitSha": "aed656a",
+  "stampedAt": "2026-11-13T08:34:58.669Z"
+}
